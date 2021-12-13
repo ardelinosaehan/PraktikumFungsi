@@ -2,22 +2,22 @@
 Fungsi dan Lambda
 
 - Latihan 1 Lambda
-[img](inputlambdalatihan1.png)
+[img](ss/inputlambdalatihan1.png)
 
 
 - Flowchart Praktikum Fungsi
-[img](FlowchartFungsi.png)
+[img](ss/FlowchartFungsi.png)
 
 - Program latihan fungsi
 Tambah data()
-[img](tambahdata.png)
+[img](ss/tambahdata.png)
 
 Ubah data 
-[img](ubahdata.png)
+[img](ss/ubahdata.png)
 
 Lihat data
-[img](Lihatdata.png)
+[img](ss/Lihatdata.png)
 
 Hapus data
-[img](hapusdata.png)
+[img](ss/hapusdata.png)
 
