@@ -1,0 +1,2 @@
+# PraktikumFungsi
+Fungsi dan Lambda
